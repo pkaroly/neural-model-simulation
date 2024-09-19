@@ -1,4 +1,5 @@
 **BMEN90002 Neural Mass Model Simulation**
+
 This is the simulation I walked through in our lecture on Neural Mass Models. 
 
 You can run it in Binder (without requiring a local python install) here:
